@@ -68,7 +68,7 @@ To play the game, the following steps can be followed:
 4. **Build** & **Run** the project on `IntelliJ` and enjoy to play the game
 
 **PS.**
-Encountered issues when I try to run. These might be helpful.
+Encountered issues when I try to run on macOS. These might be helpful.
    - [Java FX Modular Application, Module not found (Java 17, Intellij)](https://stackoverflow.com/questions/71468784/java-fx-modular-application-module-not-found-java-17-intellij)
    - [Intellij 2021.3.2, JavaFX Maven project not resolving dependencies correctly](https://stackoverflow.com/questions/71526616/intellij-2021-3-2-javafx-maven-project-not-resolving-dependencies-correctly)
    - [JavaFX Font not being rendered correctly](https://stackoverflow.com/questions/67893273/javafx-font-not-being-rendered-correctly)
